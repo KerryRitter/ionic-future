@@ -1,5 +1,3 @@
-/// <reference path="typings/index.d.ts" />
-
 declare namespace ionfuture {
     interface IPage {
         __stateName?: string;

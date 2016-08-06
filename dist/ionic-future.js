@@ -50,6 +50,7 @@ var NavParams = (function () {
     return NavParams;
 }());
 /// <reference path="typings.d.ts" />
+/// <reference path="typings/index.d.ts" />
 /// <reference path="services/navController.ts" />
 /// <reference path="services/navParams.ts" />
 angular.module("ionic-future", [])

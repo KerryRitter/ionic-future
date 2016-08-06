@@ -1,5 +1,3 @@
-/// <reference path="typings.d.ts" />
-
 export {PageBase} from "./classes/pageBase";
 export {SideMenuBase} from "./classes/sideMenuBase";
 
